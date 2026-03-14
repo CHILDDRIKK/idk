@@ -1,6 +1,5 @@
 
-
-https://discord.gg/XM3zxEKb
+discord.gg/E4BdnAXsuE
 
 🛠️ Luau Scripting Hub | Documentation & Community
 
