@@ -1,16 +1,6 @@
-<div align="center">
-  <!-- Иконка-ссылка -->
-  <a href="[https://discord.gg](https://discord.gg/XM3zxEKb)">
-    <img src="logo.png" width="150" height="150" alt="Server Logo">
-  </a>
 
-  <!-- Текстовая кнопка ниже -->
-  <p>
-    <a href="[https://discord.gg](https://discord.gg/XM3zxEKb)">
-      <img src="https://shields.io" alt="Discord">
-    </a>
-  </p>
-</div>
+
+https://discord.gg/XM3zxEKb
 
 🛠️ Luau Scripting Hub | Documentation & Community
 
