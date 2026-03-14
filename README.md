@@ -1,16 +1,18 @@
 <div align="center">
-  <!-- Иконка сервера (нажми на неё, чтобы перейти в Discord) -->
-  <a href="discord.gg/E4BdnAXsuE">
-    <img src="image.png" width="150" height="150" alt="Server Logo" style="border-radius: 50%;">
+  <!-- Здесь ссылка ТОЛЬКО в 'href', а в 'src' только название картинки -->
+  <a href="https://discord.gg/E4BdnAXsuE">
+    <img src="image.png" width="150" height="150" alt="Discord Server Icon">
   </a>
 
-  <h2>🚀 Luau Scripting Hub | Documentation & Community</h2>
+  <h2>🚀 Luau Scripting Hub</h2>
 
   <p>
-    <a href="discord.gg/E4BdnAXsuE">
+    <a href="https://discord.gg/E4BdnAXsuE">
       <img src="https://shields.io" alt="Discord">
     </a>
   </p>
+</div>
+
   
   <p><i>The ultimate resource for Roblox scripting, reverse engineering, and Luau automation.</i></p>
   <p><i>Лучший ресурс по скриптингу в Roblox, реверс-инжинирингу и автоматизации на Luau.</i></p>
