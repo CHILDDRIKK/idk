@@ -4,7 +4,7 @@
     <img src="image.png" width="150" height="150" alt="Discord Server Icon">
   </a>
 
-  <h2>🚀 Luau Scripting Hub</h2>
+  <h2>🚀 NaniGrad</h2>
 
   <p>
     <a href="https://discord.gg/E4BdnAXsuE">
@@ -20,7 +20,7 @@
 
 ---
 
-🛠️ Luau Scripting Hub | Documentation & Community
+🛠️ NaniGrad | Documentation & Community
 
 The ultimate resource for Roblox scripting, reverse engineering, and Luau automation.
 Лучший ресурс по скриптингу в Roblox, реверс-инжинирингу и автоматизации на Luau.
