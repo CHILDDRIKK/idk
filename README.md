@@ -1,5 +1,22 @@
+<div align="center">
+  <!-- Иконка сервера (нажми на неё, чтобы перейти в Discord) -->
+  <a href="discord.gg/E4BdnAXsuE">
+    <img src="image.png" width="150" height="150" alt="Server Logo" style="border-radius: 50%;">
+  </a>
 
-discord.gg/E4BdnAXsuE
+  <h2>🚀 Luau Scripting Hub | Documentation & Community</h2>
+
+  <p>
+    <a href="discord.gg/E4BdnAXsuE">
+      <img src="https://shields.io" alt="Discord">
+    </a>
+  </p>
+  
+  <p><i>The ultimate resource for Roblox scripting, reverse engineering, and Luau automation.</i></p>
+  <p><i>Лучший ресурс по скриптингу в Roblox, реверс-инжинирингу и автоматизации на Luau.</i></p>
+</div>
+
+---
 
 🛠️ Luau Scripting Hub | Documentation & Community
 
